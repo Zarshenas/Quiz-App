@@ -1,7 +1,8 @@
-# quiz_app
+# Quiz Application
 
-A new Flutter project.
+### ♥ Mini Project ♥
 
+This is my second mini project using flutter to improve my knowledge with practice.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
